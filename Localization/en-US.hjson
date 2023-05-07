@@ -1,0 +1,25 @@
+
+Mods: {
+	Dimensionalism: {
+		Items: {
+			d: {
+				DisplayName: Testing
+				Tooltip: Gamering....
+			}
+
+			GateItem: {
+				DisplayName: Gate
+			}
+
+			TestEssance: {
+				DisplayName: Test Essance
+				Tooltip: Used for all untested items
+			}
+
+			Gamer: {
+				DisplayName: Testing
+				Tooltip: Gamering....
+			}
+		}
+	}
+}

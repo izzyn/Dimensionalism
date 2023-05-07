@@ -1,0 +1,4 @@
+displayName = Dimensionalism
+author = Izzy_N (or Spizzy)
+version = 0.1
+modReferences = SubworldLibrary
